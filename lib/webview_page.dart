@@ -35,7 +35,7 @@ class _WebViewPageState extends State<WebViewPage> {
           },
         ),
       )
-      ..loadRequest(Uri.parse('https://aidahnoora.my.id'));
+      ..loadRequest(Uri.parse('https://yudhisparepart.my.id'));
   }
 
   @override
